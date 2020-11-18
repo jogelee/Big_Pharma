@@ -1,6 +1,6 @@
 # Big_Pharma
 
-After seeing Kodak insider transactions surge right before it was anounced they would be receiving a large federal loan to produce pharmaceutical ingredients, I thought maybe I could identify which pharmaceutical company had successfully developed a COVID-19 vaccine before they officially announced it (probably a pipe dream).
+After seeing Kodak insider transactions surge right before it was announced they would be receiving a large federal loan to produce pharmaceutical ingredients, I thought maybe I could identify which pharmaceutical company had successfully developed a COVID-19 vaccine before they officially announced it (probably a pipe dream).
 
 The idea is to look at the insider transactions of the executives of a few big name companies that are known to be working on a vaccine. Insider transactions are officially reported to the SEC and are available for anyone to view in their EDGAR database.
 
